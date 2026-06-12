@@ -1,0 +1,18 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local environment folders (if you created a virtual environment)
+env/
+venv/
+.env
+
+# Large data file limits (optional: prevents uploading massive files to git if you ever expand)
+*.zip
+*.tar.gz
